@@ -41,7 +41,7 @@ This file serves as the front-end interface for the application, featuring:
 ## Setup Instructions
 1. **Clone the repository:**
    ```
-   git clone <repository-url>
+   git https://github.com/OmarTheProgrammerrr/spinal-ai-project.git
    cd spinal-ai-project
    ```
 
@@ -58,7 +58,7 @@ This file serves as the front-end interface for the application, featuring:
    ```
 
 4. **Access the application:**
-   Open your web browser and navigate to `http://127.0.0.1:5000` to access the interface.
+   Open the index.html to access the interface. the Flask Server runs on local  `http://127.0.0.1:5000` 
 
 ## Usage Guidelines
 - Fill in the patient details in the provided form.
